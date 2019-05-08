@@ -30,39 +30,39 @@ Arduino是一種開放授權的互動環境開發技術，互動裝置其實無�
 #### 數位 I/O 接腳
 14 支數位 I/O 接腳 可以當作 input 使用，也可以當作 output 使用，使用方法是透過 pinMode(), digitalWrite(), anddigitalRead() 這幾個函式。這 14 支數位 I/O 接腳，其中幾支腳有特殊的功能：
 
-**Serial 通訊**
++ **Serial 通訊**
 
 0(RX) 和 1 (TX) 這兩支腳。用來接收(RX)與傳輸(TX) TTL 訊號的序列資料。這兩支腳也連接到 USB Converter 晶片中。
 
-**外部中斷**
++ **外部中斷**
 
 2 和 3 這兩支腳。這兩支腳可以利用外部事件觸發中斷。詳細內容請參考 attachInterrupt() 函式。
 
-**PWM**
++ **PWM**
 
 3, 5, 6, 9, 10 和 11 共六支腳。透過 analogWrite() 函式可以提供 8-bit 的 PWM 輸出。
 
-**SPI**
++ **SPI**
 
 10 (SS), 11 (MOSI), 12 (MISO) 和 13 (SCK) 這四支腳。這四支腳搭配 SPI Library 可提供 SPI 序列通訊。
 
-**LED**
++ **LED**
 
 13。內建一顆 LED，當 pin 腳為 HIGH 時，LED 打開，當 pin 腳為 LOW 時，LED 關閉。
 
 #### 類比輸入接腳
 Arduino Uno 有 6 支類比輸入腳，標記為 A0 到 A5，每支腳都可提供 10 位元的解析 (即 1024 種不同的數值)。這些腳位所用的參考電壓預設為 0 到 5V，不過參考電壓也是可以更改的，方法是透過 AREF 腳和 analogReference()
 
-**I2C**
+++ **I2C**
 
 4 (SDA) 和 5 (SCL) 這兩支腳。透過 Wire library 可以提供 I2C 通訊。
 
 #### 其它
-**AREF**
++ **AREF**
 
 類比輸入的參考電壓，搭配 analogReference() 函式一起使用。
 
-**Reset**
++ **Reset**
 
 當 Reset 腳為 LOW 時，微控制器會重置。
 
