@@ -13,3 +13,10 @@ Arduino是一種開放授權的互動環境開發技術，互動裝置其實無�
  
 　	主要可區分為三大類，分別是Arduino硬體、Arduino軟體及Arduino擴充原件。
 硬體部分可購買現成的版子或是依據網路下載的電路途自行組裝，出學者建議購買現成的，根據Arduino官方網站所寫，台灣地區具有官方合法授權的代理商為藝科資訊 Aroboto Studio、PlayRobot 飆機器人/普特企業有限公司、iCshop (台灣)電子零件，電子材料，當然，還有別的商家，到網路上搜尋一下可找到不少，拍賣網站上也有，甚至也可以到國外網站去買。目前官方網站提供了許多不同的版子供開發者購買。
+
+### 資料來源
+<http://newsletter.ascc.sinica.edu.tw/news/read_news.php?nid=2782>
+https://openhome.cc/Gossip/Books/mBlockArduino1-3and1-4.html#1-3
+https://www.arduino.cc/
+http://coopermaa2nd.blogspot.com/2011/02/arduino-serial-library.html
+http://yhhuang1966.blogspot.com/2015/09/arduino.html
