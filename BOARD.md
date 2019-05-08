@@ -79,17 +79,17 @@ Arduino 的軟體開發環境是開放源碼，可以在Arduino官網免費下�
 #### Arduino開發環境的介面
 	圖片待補
 
-	**Verify** 檢查參數設定或引入程式是否產生錯誤。
++ **Verify** 檢查參數設定或引入程式是否產生錯誤。
 
-	**Upload** 程式進行編譯，將程式碼透過USB介面燒錄至Arduino控制板。
++ **Upload** 程式進行編譯，將程式碼透過USB介面燒錄至Arduino控制板。
 
-	**New** 產生新的腳本 
++ **New** 產生新的腳本 
 	
-	**Open** 開啟腳本，顯示在同一頁面上。點擊不同腳本便顯示不同腳本。 
++ **Open** 開啟腳本，顯示在同一頁面上。點擊不同腳本便顯示不同腳本。 
 
-	**Save** 腳本儲存。
++ **Save** 腳本儲存。
 
-	**Serial Monitor** 開啟監視器頁面，監視Arduino I/O介面。
++ **Serial Monitor** 開啟監視器頁面，監視Arduino I/O介面。
 
 Arduino 程式主要由 setup() 和 loop() 這兩個函式組成，
 	圖片待補
@@ -98,9 +98,12 @@ Arduino 程式主要由 setup() 和 loop() 這兩個函式組成，
 ### 範例
 #### Arduino 序列通訊
 當需要跟外部電腦通訊的時候，序列通訊 (Serial Communication) 就可以派上用場。
+
 	圖片待補，Arduino 可以用同一條 USB cable 做程式上傳與序列通訊
 所有 Arduino 的板子至少都有一個 Serial port (又稱 UART 或 USART)，Serial port 使用 TX (pin 1) 跟 RX (pin 0) 這兩支接腳來傳送與接收
-	圖片待補Arduino 序列通訊接腳 TX/RX
+
+	圖片待補，Arduino 序列通訊接腳 TX/RX
+
 *註：在使用 Arduino 的時候要特別注意，如果已經用於序列通訊，pin 0 與 1 這兩支接腳就不能再當作數位輸入或輸出使用 (Digital input or output)。*
 
 要撰寫 MCU 的序列通訊程式，以往得先 K datasheet 把序列通訊相關的暫存器都弄熟，必須知道哪個暫存器是設定 baud rate 用的以及 baud rate 的計算方法，你得知道哪個暫存器負責控制傳輸，哪個負責控制接收，要傳送出去的資料該放到哪個暫存器，而收到的資料會被放在哪個暫存器…等，這個學習過程很花時間。
@@ -112,7 +115,9 @@ Arduino 的 [Serial Library](http://arduino.cc/en/Reference/Serial) 把序列通
 
 1.  將Arduino的值傳到 PC (Arduino >> PC)
 如下圖接一個可變電阻來進行測試，然後在Serial Moniter (紅色箭頭指的地方)查看在量測到的數值。把這個資料傳到LabVIEW去處理。
-	兩張圖待補
+	
+		兩張圖待補
+
 ```c
 void setup () {
      Serial.begin(9600);
@@ -123,6 +128,7 @@ Serial.println(val);           // 把參數 val 的值傳出去
 }
 
 ```
+
 2.  將PC的值傳到Arduino (PC >> Arduino)
 除了傳回到PC端，也希望可以由PC端傳到Arduino上。
 這個範例就運用LCD來顯示由PC端輸入的字元。
@@ -145,7 +151,8 @@ void loop() {
 ```
 操作的方式如下圖，打開Serial Monitor，在最上方輸入要顯示的文字，再按Send。
 就會在LCD上顯示電腦上輸入的文字。
-	圖片待補
+
+		圖片待補
 
 3. 用PC控制Arduino，以決定動作的Case
 當我們可以從PC端輸出之後，更進一步地是輸出代號，Arduino就進入Case之中，如此就可以在Case之中建立我們要的程式。
