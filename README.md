@@ -1,9 +1,7 @@
 # Introduction
 
-This is a guidebook for beginners NTUEE MakerSpace
-
-## Chief Editor
-**Leo Wu**
+This is a guidebook in NTUEE MakerSpace.
 
 ## Editors
+**Leo Wu**
 
