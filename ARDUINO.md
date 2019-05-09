@@ -177,6 +177,8 @@ void loop() {
 
 ![arduino](/img/Arduino/15.png)
 
+![arduino](/img/Arduino/16.jpg)
+
 3. 用PC控制Arduino，以決定動作的Case
 當我們可以從PC端輸出之後，更進一步地是輸出代號，Arduino就進入Case之中，如此就可以在Case之中建立我們要的程式。
 ```c

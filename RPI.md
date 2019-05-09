@@ -5,7 +5,7 @@ Raspberry Pi 是由劍橋大學的 Eben Upton 及其他幾位老師所設計的�
 根據 Make:Taiwan - 十個專訪 Raspberry Pi 創始人 Eben Upton 的問題 的描述，之所以被稱為「樹莓派」，是因為 Raspberry 是樹莓，也有人叫覆盆子，而這種水果還沒有人用來當 Logo。
 Pi 是 Python 這種程式語言發音的一部份，中文就直接音譯，合起來就像蘋果派一樣的感覺。
 		
-	圖片待補
+![rpi](/img/Rpi/1.jpg)
 
 雖然它設計出來的原始目的是在教學用途，但是也因為它價格低廉、容易取得、方便攜帶、安裝簡單、運作穩定，而且又可以連接其他週邊設備，導致不止在教育界盛行，在創客 (Maker) 圈也非常愛用它來實作各種不同有趣的點子，甚至有些業界的朋友也真的用它來製作產品、套件、週邊或是專案。
 
@@ -32,7 +32,8 @@ Raspbian OS是可以免費使用的官方操作系統。這個操作系統是有
 8. Raspberry Pi Zero
 
 ### 硬體介紹
-	圖片待補
+
+![rpi](/img/Rpi/2.png)
 
 #### 上面顯示的一些硬件組件如下
 1.  HDMI（高清晰度多媒體接口）：用於將未壓縮的視頻或數字音頻數據傳輸到計算機監視器，數字電視等。通常，此HDMI端口有助於將樹莓派連接到數字電視。
@@ -43,7 +44,10 @@ Raspbian OS是可以免費使用的官方操作系統。這個操作系統是有
 6. ACT PWR： ACT PWR是顯示SD卡活動的綠色LED。
 
 #### GPIO腳位圖
-	圖片待補
+
+![rpi](/img/Rpi/3.png)
+
+![rpi](/img/Rpi/4.png)
 
 #### RPi作業系統安裝
 1. 從[Raspberry PI](https://www.raspberrypi.org/downloads/noobs/)官網 下載 NOOBS 壓縮檔。
@@ -59,13 +63,14 @@ Raspbian OS是可以免費使用的官方操作系統。這個操作系統是有
 如果文字說明不太清楚，讀者可以參考官方文件的[教學影片](https://www.raspberrypi.org/help/videos/)。
 
 #### 安裝完的桌面環境
-	圖片待補
+
+![rpi](/img/Rpi/5.png)
 
 ### RPi軟體準備
 安裝完作業系統，會有預設的管理者帳號pi ，密碼是raspberry。
 強烈建議把預設密碼改掉，從左上角 Menu / 偏好設定 / Raspberry PI 設定 裡可以更改密碼。或者打開 LX Terminal ，執行 passwd 更改密碼。
 
-	圖片待補
+![rpi](/img/Rpi/6.png)
 
 更改密碼讓你的主機在公開網路上不會被人輕易取得系統管理者帳號。 
 
