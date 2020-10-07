@@ -27,8 +27,8 @@ Raspbian OS是可以免費使用的官方操作系統。這個操作系統是有
 3. Raspberry Pi 1 Model B
 4. Raspberry Pi 1 Model B+
 5. Raspberry Pi 2 Model B
-6. Raspberry Pi 3 Model B	
-7. Raspberry Pi 3 Model B+	
+6. Raspberry Pi 3 Model B	（本次大會提供版本）	
+7. Raspberry Pi 3 Model B+	（本次大會提供版本）
 8. Raspberry Pi 4 Model B
 9. Raspberry Pi Zero
 
