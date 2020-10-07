@@ -6,6 +6,8 @@
 	* [Arduino](ARDUINO.md)
 	* [R-pi](RPI.md)
 	* [LinkIt 7697](LINKIT.md)
+	* [ESP32](ESP32.md)
+	* [其他開發版連結](OtherBoard.md)
 * [模組介紹](MODULE.md)
 * [軟體介紹](SOFTWARE.md)
 	* [AUTOCAD](AUTOCAD.md)
