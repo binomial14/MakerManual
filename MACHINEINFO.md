@@ -15,31 +15,31 @@
 	* ![](https://i.imgur.com/vFgBFSy.png)
 	* ![](https://i.imgur.com/8crZqZb.png)
 	* ![](https://i.imgur.com/Jxmme10.png)
-	**1. Lock-off button for On/Off switch(固定按鈕)**
-			**2. On/Off switch(開關)**
-			3. Handle
-			4. Retracting blade guard
-			5. Spindle lock
-			6. Cutting disc
-			7. Angle stop
-			**8. Clamping spindle(用於夾住材料)**
-			9. Quick-release button
-			10. Spindle handle
-			11. Mounting holes
-			12. Base plate
-			**13. Locking screw for angle stop(用於調整固定角度)**
-			14. Ring spanner (15 mm; 13 mm)
-			**15. Transport safety-lock(安全插銷)**
-			16. Depth stop
-			17. Tool arm
-			18. Transport handle
-			19. Blade guard
-			20. Spark guard
-			21. Tool spindle
-			22. Clamping flange
-			23. Washer
-			24. Hexagon bolt
-			25. Lock nut of the depth stop
+		**1. Lock-off button for On/Off switch(固定按鈕)**
+		**2. On/Off switch(開關)**
+		3. Handle
+		4. Retracting blade guard
+		5. Spindle lock
+		6. Cutting disc
+		7. Angle stop
+		**8. Clamping spindle(用於夾住材料)**
+		9. Quick-release button
+		10. Spindle handle
+		11. Mounting holes
+		12. Base plate
+		**13. Locking screw for angle stop(用於調整固定角度)**
+		14. Ring spanner (15 mm; 13 mm)
+		**15. Transport safety-lock(安全插銷)**
+		16. Depth stop
+		17. Tool arm
+		18. Transport handle
+		19. Blade guard
+		20. Spark guard
+		21. Tool spindle
+		22. Clamping flange
+		23. Washer
+		24. Hexagon bolt
+		25. Lock nut of the depth stop
 * **ASAHI CM-14**
 	* ![](https://i.imgur.com/Wcfp4BQ.png)
 		>[圖片來源](https://reurl.cc/Q3R065)
