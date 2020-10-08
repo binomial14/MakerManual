@@ -1,4 +1,4 @@
-# (王)模組
+# 模組
 
 ## <span style="color:#FFF; background:#FF9966; border-radius:6px; padding:1px 7px;">模組/通訊</span>
 - ### [HC-05 bluetooth](https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf)
