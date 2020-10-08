@@ -12,24 +12,24 @@
 	* Cutting disc diameter：355ｍｍ
 	* Cutting discs width：3mm
 	* Rated power input：2000w
-	![](https://i.imgur.com/vFgBFSy.png)
-	![](https://i.imgur.com/8crZqZb.png)
-	![](https://i.imgur.com/Jxmme10.png)
+	* ![](https://i.imgur.com/vFgBFSy.png)
+	* ![](https://i.imgur.com/8crZqZb.png)
+	* ![](https://i.imgur.com/Jxmme10.png)
 		1. Lock-off button for On/Off switch(固定按鈕)
-		**2. On/Off switch(開關)**
+		2. On/Off switch(開關)
 		3. Handle
 		4. Retracting blade guard
 		5. Spindle lock
 		6. Cutting disc
 		7. Angle stop
-		**8. Clamping spindle(用於夾住材料)**
+		8. Clamping spindle(用於夾住材料)
 		9. Quick-release button
 		10. Spindle handle
 		11. Mounting holes
 		12. Base plate
-		**13. Locking screw for angle stop(用於調整固定角度)**
+		13. Locking screw for angle stop(用於調整固定角度)
 		14. Ring spanner (15 mm; 13 mm)
-		**15. Transport safety-lock(安全插銷)**
+		15. Transport safety-lock(安全插銷)
 		16. Depth stop
 		17. Tool arm
 		18. Transport handle
@@ -390,19 +390,19 @@
 	* 消耗功率：200 Watt
 	* ![](https://imgur.com/OmBzUX1.png)
 			1. Speed controller（調整圓盤轉速）
-			**2. On/off switch（總開關）**
-			**3. Working table（工作檯面，放置材料的地方）**
+			2. On/off switch（總開關）
+			3. Working table（工作檯面，放置材料的地方）
 			4. Angular limit stop clamping bolt（固定6.的螺栓）
 			5. Angular limit stop（角規擋板，將材料貼齊此處）
-			**6. Angular limit stop scale（可水平旋轉，改變材料與14.之間的角度）**
+			6. Angular limit stop scale（可水平旋轉，改變材料與14.之間的角度）
 			7. Housing
 			8. Mains cable（接電源）
 			9. Spigots for duct extract unit（可連接吸塵器以除塵）
 			10. Clamping bolt for working table adjustment（固定11.的螺栓）
-			**11. Working table adjustment scale（調整3.和14.之間的角度**
+			11. Working table adjustment scale（調整3.和14.之間的角度
 			12. Indicator needle
 			13. Protective cover（避免手直接碰到圓盤的保護蓋）
-			**14. Disk sander disk with abrasive disk（圓盤）**
+			14. Disk sander disk with abrasive disk（圓盤）
 			15. Spigots for cooling unit
 			16. Spigots for coolant pipes
 
@@ -530,13 +530,13 @@
 	* ![](https://imgur.com/rpPtpo3.png)
             1. Adjusting knob for saw blade tensioning（調整鋸子張力）
 	        2. Saw blades holder, top（與10一起撐住鋸子）
-	        **3. Saw blade（鋸子）**
-	        **4. ON - OFF – switch（總開關）**
+	        3. Saw blade（鋸子）
+	        4. ON - OFF – switch（總開關）
 	        5. Stroke rate adjusting knob
-	        **6. Clamping screw for the inclination of the work table（可調整工作台傾斜角度）**
+	        6. Clamping screw for the inclination of the work table（可調整工作台傾斜角度）
 	        7. Foot made of cast steel（底座）
 	        8. Air nozzle（空氣噴嘴）
-	        **9. Saw table（工作台）**
+	        9. Saw table（工作台）
 	        10. Saw blade holder, bottom（與2一起撐住鋸子）
 	        11. Drill holes for attachment screws
 	        12. Storage compartment for saw blades（儲物格）
