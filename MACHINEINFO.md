@@ -16,7 +16,7 @@
 	* ![](https://i.imgur.com/8crZqZb.png)
 	* ![](https://i.imgur.com/Jxmme10.png)
 	
-			**1. Lock-off button for On/Off switch(固定按鈕)**
+	**1. Lock-off button for On/Off switch(固定按鈕)**
 			**2. On/Off switch(開關)**
 			3. Handle
 			4. Retracting blade guard
@@ -481,7 +481,7 @@
 ## 帶鋸機
 ### 1. 機台介紹：
 * **BS10KA**
-	* ![](https://imgur.com/jFZIeRN.png)
+    * ![](https://imgur.com/jFZIeRN.png)
     * ![](https://imgur.com/MNdTEgV.png) 
     * 使用電壓：110 V ,50Hz
     * 消耗功率：550 Watt
