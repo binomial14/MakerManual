@@ -12,9 +12,9 @@
 	* Cutting disc diameter：355ｍｍ
 	* Cutting discs width：3mm
 	* Rated power input：2000w
-	* ![](https://i.imgur.com/vFgBFSy.png)
-	* ![](https://i.imgur.com/8crZqZb.png)
-	* ![](https://i.imgur.com/Jxmme10.png)
+	![](https://i.imgur.com/vFgBFSy.png)
+	![](https://i.imgur.com/8crZqZb.png)
+	![](https://i.imgur.com/Jxmme10.png)
 	**1. Lock-off button for On/Off switch(固定按鈕)**
 	**2. On/Off switch(開關)**
 	3. Handle
