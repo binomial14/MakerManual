@@ -1,5 +1,4 @@
 
-
 ## 電子儀器
 ### 三用電錶(手持) 
   
@@ -67,120 +66,120 @@
 ## 油
 * **注意事項**：使用時務必遠離火源
 ### 去漬油
- ![](https://i.imgur.com/LhELUd4.png)
+* ![](https://i.imgur.com/LhELUd4.png)
 
 用來清除油漬、黏著劑、油墨及油漆等。一般在中油可以買到，因爲具有強烈氣味，使用時必須遠離火源，並注意防護及通風
 
 ### 黃油
-![](https://i.imgur.com/tfxYSvS.png)
+* ![](https://i.imgur.com/tfxYSvS.png)
 
 這裡指的黃油並非吃的奶油，而是一種用來隔絕金屬和空氣接觸以避免生鏽、氧化的油品，也有潤滑的功能，進而改善機件摩擦產生的噪音
 
 ### 家庭用潤滑油
-![](https://i.imgur.com/KfzevDd.png)
+* ![](https://i.imgur.com/KfzevDd.png)
 
 在家中相當常見，自行車、電扇的防鏽及潤滑。
 
 ### WD40潤滑油
-![](https://i.imgur.com/n7frw2N.png)
+* ![](https://i.imgur.com/n7frw2N.png)
 
 原本被發展作為一種隔水抗鏽劑，但後來大家漸漸把它拿來當作輕度潤滑用、溶劑、除膠劑或清潔劑，但這罐最主要的用途還是拿來除鏽。
 
 ## 鉗
 * **注意事項**：使用時注意線徑
 ### 剝線鉗
-![](https://i.imgur.com/KgJy5TD.png)
+* ![](https://i.imgur.com/KgJy5TD.png)
 
 顧名思義，用來剝電線外的那層塑膠外層，而前後不同的凹槽代表不同粗細的線，使用時要先確認，以免剪斷線。
 
 ### 壓線鉗
-![](https://i.imgur.com/FfPBxvp.jpg)
+* ![](https://i.imgur.com/FfPBxvp.jpg)
 
 
 
 可以用來打杜邦頭用，需配合杜邦頭的簧片使用，目的是讓簧片完整包覆在電線的線芯上，以免脫落或接觸不良。
-![](https://i.imgur.com/QSBZyYp.png)
+* ![](https://i.imgur.com/QSBZyYp.png)
 
-![](https://i.imgur.com/FydpZJl.png)
+* ![](https://i.imgur.com/FydpZJl.png)
 
-![](https://i.imgur.com/FUioS9E.png)
+* ![](https://i.imgur.com/FUioS9E.png)
 
 ## 輔助工具
 ### 攻牙器、絞牙器
-![](https://i.imgur.com/0LhU27O.png)
-![](https://i.imgur.com/qhVcqqM.png)
+* ![](https://i.imgur.com/0LhU27O.png)
+* ![](https://i.imgur.com/qhVcqqM.png)
 
 ## 膠
 ### 熱融槍
-![](https://i.imgur.com/xebjzRw.png)
+* ![](https://i.imgur.com/xebjzRw.png)
 
 用來黏著，要小心插電後需要一點時間預熱，前端金屬頭碰到會燙傷，使用時要小心。
 
 ## 焊接周邊
 ### 吸煙儀
-![](https://i.imgur.com/x6DEwN9.png)
+* ![](https://i.imgur.com/x6DEwN9.png)
 
 用來吸焊接時產生的廢氣，以免被人吸到XD，焊接時務必要使用！
 
 ### 吸錫線
-![](https://i.imgur.com/UsSPIcu.png)
+* ![](https://i.imgur.com/UsSPIcu.png)
 
 這是一種銅製編織線，	吸錫線很容易使用，只要將線端放在要去除的焊料上方，再將加熱的烙鐵頭放在上面即可。編織線加熱後會促使焊料「吸錫」到編織線中。
 
 ### 吸錫器
-![](https://i.imgur.com/3zX6942.png)
+* ![](https://i.imgur.com/3zX6942.png)
 
 像幫浦一樣，在焊槍解焊後用這隻把解焊後的錫吸起來，以免再次焊上去。
 
 ### 吸錫器通針
-![](https://i.imgur.com/Z1cISdX.png)
+* ![](https://i.imgur.com/Z1cISdX.png)
 
 顧名思義，有時吸錫器會卡錫在裡面，這時候就需要這根吸錫器通針來清理吸錫器。
 
 ### 無鉛銲錫
-![](https://i.imgur.com/pKFNq1T.png)
+* ![](https://i.imgur.com/pKFNq1T.png)
 
 焊接之素材，和一般銲錫相比融點較低，其焊接之可靠性也提高。
 
 ### 烙鐵Hakko FX-888
-![](https://i.imgur.com/fA27ZGN.png)
+* ![](https://i.imgur.com/fA27ZGN.png)
 恆溫烙鐵，使用溫度建議於攝氏300度
 ### 烙鐵 goot TQ-90
-![](https://i.imgur.com/TkFGtkA.png)
+* ![](https://i.imgur.com/TkFGtkA.png)
 按下中間黃色可以達到瞬間加溫的效果
 
 ### 烙鐵 goot PX-201
-![](https://i.imgur.com/MMfpnEv.png)
+* ![](https://i.imgur.com/MMfpnEv.png)
 外表樸實無華，但就特別好用
 ### 焊接技巧
-![](https://i.imgur.com/yiS4nUr.png)
-![](https://i.imgur.com/UdbVTr8.png)
-![](https://i.imgur.com/Bk041Uz.png)
-![](https://i.imgur.com/yQtQ0bT.png)
-![](https://i.imgur.com/A11dB6B.png)
-![](https://i.imgur.com/oZhFAXL.png)
+* ![](https://i.imgur.com/yiS4nUr.png)
+* ![](https://i.imgur.com/UdbVTr8.png)
+* ![](https://i.imgur.com/Bk041Uz.png)
+* ![](https://i.imgur.com/yQtQ0bT.png)
+* ![](https://i.imgur.com/A11dB6B.png)
+* ![](https://i.imgur.com/oZhFAXL.png)
 
 參考連結:http://www.hktree.org/downloads/DivisionIIISoldering.pdf
 ### 焊槍保養
-![](https://i.imgur.com/TTx2c8G.png)
-![](https://i.imgur.com/f18bwgp.png)
-![](https://i.imgur.com/lARMeQR.png)
-![](https://i.imgur.com/FwkR9DO.png)
-![](https://i.imgur.com/rRAcEPz.png)
+* ![](https://i.imgur.com/TTx2c8G.png)
+* ![](https://i.imgur.com/f18bwgp.png)
+* ![](https://i.imgur.com/lARMeQR.png)
+* ![](https://i.imgur.com/FwkR9DO.png)
+* ![](https://i.imgur.com/rRAcEPz.png)
 參考連結:https://kknews.cc/zh-tw/news/5gooy36.html
 
 ## 鑽
 * **注意事項**：安裝時務必確認垂直置入電鑽或鑽床
 ### 鑽頭 S-TURBO NO.866.007 0.8~3.0mm
-![](https://i.imgur.com/qPjfU0K.png)
+* ![](https://i.imgur.com/qPjfU0K.png)
 細鑽頭，使用時應注意轉速及推進速度
 
 ### 階梯鑽
-![](https://i.imgur.com/bjKtaR1.png)
+* ![](https://i.imgur.com/bjKtaR1.png)
 可以做擴孔，亦可以達到倒角刀修邊的功能
 
 ### 鑽頭
-![](https://i.imgur.com/UrezzGR.png)
+* ![](https://i.imgur.com/UrezzGR.png)
 有分木工鑽頭及金工鑽頭，使用時應按照工件材質做選擇
 
 
