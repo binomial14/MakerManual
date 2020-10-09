@@ -218,164 +218,6 @@
 * 要更換砂帶時，將長形平台旁邊的黑色把手扳到另一邊即可讓砂帶放鬆
 * ![](https://i.imgur.com/oicZXzc.jpg)
 
-## 圓鋸機
-
-### 1. 機台介紹：
-* **Makita 2704**
-    * [User Manual](https://www.manualslib.com/manual/649058/Makita-2704.html#manual)
-    * 使用電壓：120 V
-    * No Loading Speed：4800/min
-    * 平台大小：567mm x (753mm~1066mm)
-    * 重量：28 kg
-    * 外觀
-    * ![](https://i.imgur.com/Plh19gT.png)
-    * 調整把手（調整刀片深度及角度）
-    * ![](https://i.imgur.com/7l1MFHl.jpg =800x)
-* **GTS1031**
-![](https://imgur.com/BBCpDS4.png)
-
-### 2. 用途：
-
-* 裁切適合大小木板
-
-### 3. 操作說明：（以Makita 2704為例）
-* 調整刀片深度（順時針轉，刀片會向上移動）
-![](https://i.imgur.com/H7UUqqL.png =500x)
-
-* 調整刀片角度
-1. 將1所指的手把逆時針轉動解鎖
-2. 轉動3所指的轉盤調整刀片角度，2所指的箭頭會顯示刀片和平台的夾角
-3. 記得將步驟1的手把轉回去，並確定鎖緊
-![](https://i.imgur.com/cBR04G9.png)
-
-* 拉出子平台
-1. 將左圖中1所指的把手同時向下壓
-2. 將右方子平台拉出即可
-![](https://i.imgur.com/FDGfGsg.png =300x)![](https://i.imgur.com/Legq65z.png =300x)
-
-* 調整防裂柵欄
-1. 將2所指的把手向上推
-2. 移動柵欄位置後，確定1所指的鉤子在軌道上，即可將把手向下壓緊
-![](https://i.imgur.com/dPZjdDG.png)
-
-
-* 打開開關
-![](https://i.imgur.com/tK3RafZ.png)
-
-### 4. 注意事項：
-* 調整機台時，請確保開關關上
-* 將刀片的高度調整為略高於木板的厚度
-* 切割較長木板時，切割後的部分應在下方放置支撐
-
-### 5. 操作技巧：
-* 當刀片左邊空間足夠時切割木板的姿勢
-    + 如圖，左手施力向右，讓木板抵住柵欄
-![](https://i.imgur.com/wnvEOXL.png)
-
-* 當刀片左邊空間不足時切割木板的姿勢
-    + 如圖，可用推桿將木板往前推
-![](https://i.imgur.com/UE7jW2m.png)
-
-## 熱風槍
-### 1. 機台介紹：
-* **GHG 660 LCD** 
-
-    * 輸入功率：2300 w
-    * 重量：0.97 kg
-    * 工作溫度：50~660℃
-    * 大小：255mm x 255mm
-    * 外觀
-    * ![](https://i.imgur.com/WJMFKZ3.png)
-
-### 2. 用途：
-* 產生熱風
-* 控制溫度風速準確
-* 可用來吹熱縮套管，或提供彎折塑膠的熱源
-
-### 3. 操作說明：（以GHG 660 LCD為例）
-* 操作面板 
-* ![](https://i.imgur.com/VprNoVb.png)
-    * 按P鍵可以在四個不同的溫度間切換
-    * 3號鍵是開關
-    * 調整溫度、風量
-        * 按9號可以調整當前模式的溫度
-        * 按8號可以調整當前模式的風量
-        * 在按10號鍵約5秒後就設定完新的模式
-    
-### 4. 注意事項：
-* 使用後的熱風槍頭溫度很高，小心燙傷
-
-### 5. 操作技巧：
-* 操作面板朝下可以將熱風槍直立
-
-## 空壓機
-### 1. 機台介紹：
-* **SWAN DRS-210-22**
-
-
-    
-    * 馬達：1.0 hp
-    * 工作氣壓：7 bar
-    * 大小：635 mm x 294 mm x 585 mm（長x寬x高）
-    * 重量：26 kg
-    * 氣缸容量：22 liter
-    * 噪音值：68 dB
-    * 外觀
-    * ![](https://i.imgur.com/rKMDggR.jpg)
-    * 空壓機開關和氣閥
-    * ![](https://i.imgur.com/4J8iILL.png)
-    * 氣壓表
-    * ![](https://i.imgur.com/4MmW5Xt.png)
-    * 調整氣壓旋鈕
-    * ![](https://i.imgur.com/agQ27bp.jpg)
-    * 去除水氣裝置
-    * ![](https://i.imgur.com/fDpnVKX.png)
-
-### 2. 用途：
-* 噴砂
-* 填充槍
-* 打釘機
-* 吹氣清潔
-* 噴漆
-* 輪胎充氣
-
-
-
-### 3. 操作說明：
-1. 打開開關
-2. 調整氣壓
-3. 打開氣閥
-
-### 4. 注意事項：
-* 使用後記得將氣閥關上
-* 若汽缸內氣體容量不足時，可接上電源
-* 不要對眼睛噴氣
-* 使用一段時間後會累積水氣，可打開去除水氣裝置下方的開關1~2秒
-
-## 手持式吸塵器
-
-
-### 1. 機台介紹
-* **BOSCH GAS 18V-li**
-    * 外觀
-    ![](https://i.imgur.com/xSID8WT.png)
-    * 電池電壓：18 V
-    * 強力吸塵器
-    * 無線
-    * [user manual](https://www.bosch-professional.com/africa/en/products/gas-18-v-li-06019C6100)
-
-### 2. 用途
-* 如圖
-![](https://i.imgur.com/spIaczV.jpg)
-
-### 3. 操作說明
-* 如圖
-![](https://i.imgur.com/3o1ZYxd.jpg)
-
-### 4. 注意事項
-* 定期清濾網
-* 要記得充電
-
 ## 砂光機
 
 
@@ -564,4 +406,163 @@
 * 請輕彈鋸條，發出高頻聲音即可使用，若鋸條太鬆或太緊，請轉動後上方圓柄，太緊時要彈很大力才有些微聲音
 * 慢速適合切較硬的材料，快速適合切較軟的材料
 * 若需要切口平整，帶鋸機的效果會比線鋸機理想
+## 圓鋸機
+
+### 1. 機台介紹：
+* **Makita 2704**
+    * [User Manual](https://www.manualslib.com/manual/649058/Makita-2704.html#manual)
+    * 使用電壓：120 V
+    * No Loading Speed：4800/min
+    * 平台大小：567mm x (753mm~1066mm)
+    * 重量：28 kg
+    * 外觀
+    * ![](https://i.imgur.com/Plh19gT.png)
+    * 調整把手（調整刀片深度及角度）
+    * ![](https://i.imgur.com/7l1MFHl.jpg =800x)
+* **GTS1031**
+![](https://imgur.com/BBCpDS4.png)
+
+### 2. 用途：
+
+* 裁切適合大小木板
+
+### 3. 操作說明：（以Makita 2704為例）
+* 調整刀片深度（順時針轉，刀片會向上移動）
+![](https://i.imgur.com/H7UUqqL.png =500x)
+
+* 調整刀片角度
+1. 將1所指的手把逆時針轉動解鎖
+2. 轉動3所指的轉盤調整刀片角度，2所指的箭頭會顯示刀片和平台的夾角
+3. 記得將步驟1的手把轉回去，並確定鎖緊
+![](https://i.imgur.com/cBR04G9.png)
+
+* 拉出子平台
+1. 將左圖中1所指的把手同時向下壓
+2. 將右方子平台拉出即可
+![](https://i.imgur.com/FDGfGsg.png =300x)![](https://i.imgur.com/Legq65z.png =300x)
+
+* 調整防裂柵欄
+1. 將2所指的把手向上推
+2. 移動柵欄位置後，確定1所指的鉤子在軌道上，即可將把手向下壓緊
+![](https://i.imgur.com/dPZjdDG.png)
+
+
+* 打開開關
+![](https://i.imgur.com/tK3RafZ.png)
+
+### 4. 注意事項：
+* 調整機台時，請確保開關關上
+* 將刀片的高度調整為略高於木板的厚度
+* 切割較長木板時，切割後的部分應在下方放置支撐
+
+### 5. 操作技巧：
+* 當刀片左邊空間足夠時切割木板的姿勢
+    + 如圖，左手施力向右，讓木板抵住柵欄
+![](https://i.imgur.com/wnvEOXL.png)
+
+* 當刀片左邊空間不足時切割木板的姿勢
+    + 如圖，可用推桿將木板往前推
+![](https://i.imgur.com/UE7jW2m.png)
+
+## 熱風槍
+### 1. 機台介紹：
+* **GHG 660 LCD** 
+
+    * 輸入功率：2300 w
+    * 重量：0.97 kg
+    * 工作溫度：50~660℃
+    * 大小：255mm x 255mm
+    * 外觀
+    * ![](https://i.imgur.com/WJMFKZ3.png)
+
+### 2. 用途：
+* 產生熱風
+* 控制溫度風速準確
+* 可用來吹熱縮套管，或提供彎折塑膠的熱源
+
+### 3. 操作說明：（以GHG 660 LCD為例）
+* 操作面板 
+* ![](https://i.imgur.com/VprNoVb.png)
+    * 按P鍵可以在四個不同的溫度間切換
+    * 3號鍵是開關
+    * 調整溫度、風量
+        * 按9號可以調整當前模式的溫度
+        * 按8號可以調整當前模式的風量
+        * 在按10號鍵約5秒後就設定完新的模式
+    
+### 4. 注意事項：
+* 使用後的熱風槍頭溫度很高，小心燙傷
+
+### 5. 操作技巧：
+* 操作面板朝下可以將熱風槍直立
+
+## 空壓機
+### 1. 機台介紹：
+* **SWAN DRS-210-22**
+
+
+    
+    * 馬達：1.0 hp
+    * 工作氣壓：7 bar
+    * 大小：635 mm x 294 mm x 585 mm（長x寬x高）
+    * 重量：26 kg
+    * 氣缸容量：22 liter
+    * 噪音值：68 dB
+    * 外觀
+    * ![](https://i.imgur.com/rKMDggR.jpg)
+    * 空壓機開關和氣閥
+    * ![](https://i.imgur.com/4J8iILL.png)
+    * 氣壓表
+    * ![](https://i.imgur.com/4MmW5Xt.png)
+    * 調整氣壓旋鈕
+    * ![](https://i.imgur.com/agQ27bp.jpg)
+    * 去除水氣裝置
+    * ![](https://i.imgur.com/fDpnVKX.png)
+
+### 2. 用途：
+* 噴砂
+* 填充槍
+* 打釘機
+* 吹氣清潔
+* 噴漆
+* 輪胎充氣
+
+
+
+### 3. 操作說明：
+1. 打開開關
+2. 調整氣壓
+3. 打開氣閥
+
+### 4. 注意事項：
+* 使用後記得將氣閥關上
+* 若汽缸內氣體容量不足時，可接上電源
+* 不要對眼睛噴氣
+* 使用一段時間後會累積水氣，可打開去除水氣裝置下方的開關1~2秒
+
+## 手持式吸塵器
+
+
+### 1. 機台介紹
+* **BOSCH GAS 18V-li**
+    * 外觀
+    ![](https://i.imgur.com/xSID8WT.png)
+    * 電池電壓：18 V
+    * 強力吸塵器
+    * 無線
+    * [user manual](https://www.bosch-professional.com/africa/en/products/gas-18-v-li-06019C6100)
+
+### 2. 用途
+* 如圖
+![](https://i.imgur.com/spIaczV.jpg)
+
+### 3. 操作說明
+* 如圖
+![](https://i.imgur.com/3o1ZYxd.jpg)
+
+### 4. 注意事項
+* 定期清濾網
+* 要記得充電
+
+
 
