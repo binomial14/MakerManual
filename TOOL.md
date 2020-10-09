@@ -1,4 +1,4 @@
-# (宥)MakeNTU 教學文件
+
 
 ## 電子儀器
 ### 三用電錶(手持) 
@@ -7,19 +7,20 @@
 中央圓盤是用來切換量測項目及範圍的，V代表電壓，A代表電流，Ω代表電阻，根據上面的圖示接線，將導線一端接觸欲量測之電路，而com為共地，通常插黑色接線以區別。
 
 * **DT9205A**
-![](https://i.imgur.com/F9jdmEC.png)
+    * ![](https://i.imgur.com/F9jdmEC.png)
     * [User Manual](https://datasheetspdf.com/pdf-file/756481/ETC/DT9205A/1)
 * **TES-2900**
-![](https://i.imgur.com/irpLYUD.png)
+    * ![](https://i.imgur.com/irpLYUD.png)
 
 ### 三用電錶(桌上型)
 使用概念類似於手持式的三用電錶，使用方法亦相似，要注意插孔及檔位，以免造成線路或元件毀損。
 
 * **DMM-6500**
-![](https://i.imgur.com/jr437Sl.png)
+
+    * ![](https://i.imgur.com/jr437Sl.png)
     * [User Manual](https://www.testequipmentdepot.com/keithley/pdfs/dmm6500_datasheet.pdf)
 * **GDM-8245**
-![](https://i.imgur.com/sOooPNS.png)
+    * ![](https://i.imgur.com/sOooPNS.png)
 
 ### 示波器
 
@@ -27,27 +28,27 @@
 
 
 * **DPO2024B**
-![](https://i.imgur.com/VsT9JOP.png)
+    * ![](https://i.imgur.com/VsT9JOP.png)
 
 * **TBS1072B-E**
-![](https://i.imgur.com/q5kwMRF.png)
+    * ![](https://i.imgur.com/q5kwMRF.png)
     * [User Manual](http://www.farnell.com/datasheets/2828088.pdf?_ga=2.167086586.574600467.1601994066-819243443.1601994066)
 
 ### 波形產生器
 
 用來輸出訊號，可以輸出特定頻率、特定形狀及特定振幅的波形，接法跟示波器有點類似，可當作交流訊號源。
 * **AFG-2112**
-![](https://i.imgur.com/7mfIFPn.png)
+    * ![](https://i.imgur.com/7mfIFPn.png)
     * [User Manual](http://www.farnell.com/datasheets/2313572.pdf?_ga=2.167086586.574600467.1601994066-819243443.16019940663)
 ### 鉤錶
 
 幾乎包括了所有三用電錶的功能，而且還能測量交流電流，但價格比三用電錶貴許多，兩者主要差別在量測電流的功能。鉤錶的原理主要是利用霍爾效應(Hall effect)，指當固體導體放置在一個磁場內，且有電流通過時，導體內的電荷載子受到洛倫茲力而偏向一邊，繼而產生電壓（霍爾電壓）的現象，把鉤子勾住其中一條導線，便可測出高功率電器的電壓。
 
 * **DER-EE(DE-3515)**
-![](https://i.imgur.com/boZFOHN.png)
+    * ![](https://i.imgur.com/boZFOHN.png)
 
 * **TES-3910**
-![](https://i.imgur.com/hMLt6yW.png)
+    * ![](https://i.imgur.com/hMLt6yW.png)
 
 
 
@@ -57,11 +58,11 @@
 顧名思義，用來供應電源，可設定成電壓源或電流源，但這邊的電源都是屬於直流電的供應，使用方法跟示波器接線類似，在一個channel的兩個接口接上要作為供應電源的地方，待設定好後按output，就可開始供電。
 
 * **PROVA8000**
-![](https://i.imgur.com/lbnX5HR.png)
+    * ![](https://i.imgur.com/lbnX5HR.png)
     * [User Manual](http://www.prova.com.tw/img/download/8000-DATA%20SHEET.pdf)
 
 * **GPS-4303**
-![](https://i.imgur.com/V9A5C9h.png)
+    * ![](https://i.imgur.com/V9A5C9h.png)
     * [User Manual](https://www.globaltestsupply.com/pdfs/cache/www.globaltestsupply.com/instek/dc_power_supply/gps_4303/datasheet/instek_gps_4303_dc_power_supply_datasheet.pdf)
 ## 油
 * **注意事項**：使用時務必遠離火源
