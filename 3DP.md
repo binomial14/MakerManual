@@ -49,8 +49,10 @@ SLS技術使用粉末聚合物作為3D列印的原料，將粉末倒入機器中
 <font color="#f00">**(因時間因素，MakeNTU比賽中不建議使用高於35%的填充比例)**</font><br>
 (iii) 選擇填充模式：最常見、CP值高的填充模式為**蜂巢(3D Honeycomb)**，其他值得考慮的包括Grid, 又名 Rectangular(速度較快)，或Triangular
 5. 若零件有懸空的部分(overhang)，會造成線材無法附著的情況，此時需開啟支撐材料設定，建議將支撐角度臨界設為***70度***左右。支撐材料在列印結束後輕輕剝除即可
+
 ![](https://i.imgur.com/x2aPuSO.png)
 懸空處線材無處附著<br>
+
 ![](https://i.imgur.com/cy4ISB3.jpg)
 剛出爐、含支撐材料的列印成品 v.s. 剝除支撐材料&底座後的完成品
 
